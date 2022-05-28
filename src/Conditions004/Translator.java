@@ -100,6 +100,6 @@ public class Translator {
 //                System.out.println("Нет такой погоды");
 //                break;
 //            }
-            System.out.println("Hello Maxim");
+            System.out.println("Hello Maxim " + "gde moi commiti" );
         }
     }
