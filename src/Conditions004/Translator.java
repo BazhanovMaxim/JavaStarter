@@ -101,5 +101,6 @@ public class Translator {
 //                break;
 //            }
             System.out.println("Hello Maxim " + "gde moi commiti" + "\n" + "Нашел коммиты они их скрыли кароче" + "\n" + "ловушка джокера" );
+            System.out.println("Pullim");
         }
     }
