@@ -27,5 +27,6 @@ public class Premium {
         } else if (userVisluga >= 25) {
             System.out.println("Это ГГ бро. 50% тебе. Итого: " + (userZP/100) * 50 + " к зп.");
         }
+        cns.close();
     }
 }
